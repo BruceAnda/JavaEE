@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HTML&amp;CSS&amp;JS/HTML&amp;CSS&amp;JS.iml" filepath="$PROJECT_DIR$/HTML&amp;CSS&amp;JS/HTML&amp;CSS&amp;JS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaEE.iml" filepath="$PROJECT_DIR$/.idea/JavaEE.iml" />
     </modules>
   </component>
