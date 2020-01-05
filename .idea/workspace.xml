@@ -2,35 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff51e4ce-22ba-497f-8b76-c840caa9e119" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS&amp;JS/HTML&amp;CSS&amp;JS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML&amp;CSS&amp;JS/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaWeb&amp;Ajax&amp;JQuery/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaWeb&amp;Ajax&amp;JQuery/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaWeb&amp;Ajax&amp;JQuery/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaWeb&amp;Ajax&amp;JQuery/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaWeb&amp;Ajax&amp;JQuery/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaWeb&amp;Ajax&amp;JQuery/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaWeb&amp;Ajax&amp;JQuery/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaWeb&amp;Ajax&amp;JQuery/src/main/webapp/index.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/.gradle/5.2.1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/.gradle/5.2.1/gc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/.gradle/vcs-1/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JDBC/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/JDBC&amp;MySQL/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578109867335</updated>
       <workItem from="1578109868471" duration="1087000" />
-      <workItem from="1578110961327" duration="200000" />
+      <workItem from="1578110961327" duration="631000" />
     </task>
     <task id="LOCAL-00001" summary="修改readme">
       <created>1578110469813</created>
@@ -174,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578110469813</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add model">
+      <created>1578111192808</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578111192808</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,13 +168,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="修改readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改readme" />
+    <MESSAGE value="add model" />
+    <option name="LAST_COMMIT_MESSAGE" value="add model" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="434" y="139" key="CommitChangelistDialog2" timestamp="1578110469498">
+    <state x="434" y="139" key="CommitChangelistDialog2" timestamp="1578111192627">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="434" y="139" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1578110469498" />
+    <state x="434" y="139" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1578111192627" />
     <state x="707" y="437" width="265" height="270" key="Github.ShareDialog" timestamp="1578110085277">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -201,10 +188,10 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="328" y="118" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1578110990259" />
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1578110482837">
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1578111204290">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1578110482837" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1578111204290" />
     <state x="542" y="335" key="git4idea.merge.GitPullDialog" timestamp="1578110156593">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
